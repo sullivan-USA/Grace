@@ -4,7 +4,7 @@ file contains tests to verify that the program produced the expected results.
 1.	Develop the method 'reverse', which reverses the elements of a linked list in place.  
 That is, it does not create new node objects for the values: it reuses the existing ones.  
 It does change the next references in the nodes, of course. 
-2.	Develop a method called insertionSort that sorts a linked list as follows.
+2.	Develop a method called 'insertionSort' that sorts a linked list as follows.
 a.	Find the largest value in the list. 
 b.	Delete it from its position and insert it at the head of the list
 c.	starting from what is now the second element, repeat (a) and (b)
