@@ -1,7 +1,7 @@
 The 'Implementation' file achieves the below objectives in implementing and using linked lists. An additonal 'test'
 file contains tests to verify that the program produced the expected results.
 
-1.	Develop the method reverse, which reverses the elements of a linked list in place.  
+1.	Develop the method 'reverse', which reverses the elements of a linked list in place.  
 That is, it does not create new node objects for the values: it reuses the existing ones.  
 It does change the next references in the nodes, of course. 
 2.	Develop a method called insertionSort that sorts a linked list as follows.
@@ -10,15 +10,15 @@ b.	Delete it from its position and insert it at the head of the list
 c.	starting from what is now the second element, repeat (a) and (b)
 d.	starting from what is now the third element, repeat (a) and (b)
 e.	continue until the list is sorted.
-3.	Use the insertionSort method to check if two words are anagrams of each other, as follows:
+3.	Use the 'insertionSort' method to check if two words are anagrams of each other, as follows:
 a.	convert each word to a list of letters.
 b.	sort the two lists.
 c.	check if the two lists are equal.
-4.	Develop a method asBinary that takes as input an integer n, and converts n to binary.  
+4.	Develop a method 'asBinary' that takes as input an integer n, and converts n to binary.  
 The method should return a linked list with the least significant bit of the binary representation of n at the 
 head of the list, and the most significant bit at the tail.  
 For example, if n = 13, the binary representation is 1101 (8+4+1), so the list should contain [1, 0 , 1, 1].
-5.	Develop a method asNumber that takes as input a list containing 0s and 1s as described in (4), 
+5.	Develop a method 'asNumber' that takes as input a list containing 0s and 1s as described in (4), 
 and returns the number that the bits represent.  
 So asNumber and asBinary are inverses, and you can use this fact in your tests.
 6.	Implement the method iterator on linked lists.  
