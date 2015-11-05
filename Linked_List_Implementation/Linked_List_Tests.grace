@@ -3,6 +3,9 @@
 //Linked List Lab
 //8-13-2015
 
+//The purpose of this program is to test whether the Linked_List_Implementation.grace file produces the expected
+//results.
+
 dialect "minitest"
 import "math" as math
 import "unicode" as unicode
