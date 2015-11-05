@@ -2,7 +2,7 @@
 //Johnniac Machine Simulator
 //8-11-2015
 
-//The purpose of this program is simulate a Johnniac Machine. It performs basic computations and stores values
+//The purpose of this program is simulate a Johnniac Machine that performs basic computations and stores values
 //in memory.
 
 //Syntax: 
