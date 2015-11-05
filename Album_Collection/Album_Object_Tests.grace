@@ -3,6 +3,9 @@
 //Album Collection Lab
 //Date: 8-6-15
 
+//The purpose of this file is to test that the functions in the Album_Object.grace and Track_Object.grace
+//files produce the expected results.
+
 dialect "minitest"
 import "albumLab" as albumFile
 import "trackLab" as trackFile
