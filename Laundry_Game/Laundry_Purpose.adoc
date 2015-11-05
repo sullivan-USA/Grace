@@ -1,0 +1,8 @@
+Laundry Game
+
+The purpose of this program is create a game that resembles sorting laundry into three piles: whites, darks
+and colors. The central square represents a randomly generated article of clothing, and the user drags it 
+into the correct pile.
+After each correct placement, a new randomly-colored clothing item appears.
+The game keeps score of correct and incorrect placements.
+The game continues running until the user closes the window.
