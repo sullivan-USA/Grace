@@ -3,6 +3,9 @@
 //Book Catalog Lab
 //Date: 7-28-15
 
+//The purpose of this program is to create catalog objects similar to a catalog of books. 
+//Books created via the Book_Object.grace file can be added or removed from the catalog.
+
 import "bookData" as bookData
 import "bookLab" as bookFile
 
