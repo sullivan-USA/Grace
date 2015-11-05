@@ -3,6 +3,9 @@
 //Album Collection Lab
 //Date: 8-6-15
 
+//The purpose of this program is to test that the functions in theTrack_Object.grace file produces 
+//the expected results.
+
 dialect "minitest"
 import "trackLab" as trackFile
 //imports the trackLab file for using the newTrack method of creating track objects.
