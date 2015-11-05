@@ -3,6 +3,9 @@
 //Book Catalog Lab
 //Date: 7-28-15
 
+//The purpose of this program is to test that the functions in the Book_Object.grace file produce the expected
+//results.
+
 dialect "minitest"
 import "bookLab" as bookFile
 //imports the bookLab file for using the newBook method of creating book objects.
