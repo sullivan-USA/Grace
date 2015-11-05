@@ -2,7 +2,10 @@
 //
 // Name: Ryan Sullivan
 // Date: 7/15/15
-//
+// The purpose of this program is create a game that resembles sorting laundry into three stacks: whites, darks
+// and colors. The central square randomly generates a color, and the user drags it into the correct pile.
+// The game keeps score of correct and incorrect placements.
+
 dialect "objectdraw"
 
 inherits graphicApplication.size(400,400)
