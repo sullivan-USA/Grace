@@ -1,3 +1,6 @@
+//Ryan Sullivan
+//The purpose of this file is to provide sample book data for use in the other Book_Catalog files.
+
 def data = list.with(
         list.with("Scott Doorley and Scott Witthoft", "Make Space: How to Set the Stage for Creative Collaboration", "Wiley", 2011), 
         list.with("Andrew Black, St\'ephane Ducasse, Oscar Nierstrasz, Damien Pollet, Damien Cassou, and Marcus Denker", "Pharo by Example", "Square Bracket Associates", 2009), 
