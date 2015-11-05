@@ -2,7 +2,8 @@
 //Johnniac Machine Simulator
 //8-11-2015
 
-//The purpose of this program is to test whether the Johnniac Simulator produces the expected results.
+//The purpose of this program is to test whether functions in the Johnniac Simulator 
+//produce the expected results.
 
 //Syntax: 
 //OPCODE [2 digits] 
