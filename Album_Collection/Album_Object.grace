@@ -3,6 +3,9 @@
 //Album Collection Lab
 //Date: 8-6-15
 
+//The purpose of this file is create album objects similar to a music album. 
+//Track objects, which are created through the Track_Objects.grace file, can be added or removed from album objects.
+
 factory method newAlbum {
 //Designs an album object to which you can add and remove individual tracks.
     
