@@ -3,6 +3,10 @@
 //Linked List Lab
 //8-13-2015
 
+//The purpose of this program is to implement linked lists as a data structure. Specific objectives are 
+//described in the Linked_List_Purpose.adoc file.
+
+
 import "math" as math
 import "unicode" as unicode
 
