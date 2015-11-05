@@ -3,6 +3,9 @@
 //Album Collection Lab
 //Date: 8-6-15
 
+//The purpose of this program is to create track objects similar to tracks on a music album.
+//Track objects can be added or removed from album objects created through the Album_Object.grace file.
+
 factory method newTrack {
 //Define an object track that has two methods: an asString method that answers 
 //the String “the track class” and a method that answers a new (immutable) track object.
