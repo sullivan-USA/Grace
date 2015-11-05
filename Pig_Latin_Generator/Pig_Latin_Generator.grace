@@ -3,6 +3,9 @@
 //Pig Latin (Lab 4)
 //7-23-2015
 
+//The purpose of this program is to translate words into Pig Latin or convert Pig Latin words to English.
+//The bottom of this file contains tests to verify that the program is translating correctly.
+
 import "graphix" as g
 import "gUnit" as gU
 
