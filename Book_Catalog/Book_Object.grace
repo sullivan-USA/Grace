@@ -3,6 +3,9 @@
 //Book Catalog Lab
 //Date: 7-28-15
 
+//The purpose of this program is to create a book object similar to a book. Multiple book objects can be stored
+//in a catalog object, which is created via the Catalog_Object.grace file.
+
 method newBook {
 //Define an object book that has two methods: an asString method that answers 
 //the String “the book class” and a method that answers a new (immutable) book object.
