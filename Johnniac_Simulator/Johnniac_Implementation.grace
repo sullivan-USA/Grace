@@ -2,6 +2,9 @@
 //Johnniac Machine Simulator
 //8-11-2015
 
+//The purpose of this program is simulate a Johnniac Machine. It performs basic computations and stores values
+//in memory.
+
 //Syntax: 
 //OPCODE [2 digits] 
 //OPERAND [3 digits]
