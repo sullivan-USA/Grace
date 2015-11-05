@@ -2,6 +2,11 @@
 //New Beginnings
 //Apple Lab
 //Date: 7-30-15
+
+//The purpose of this program is to create a game similar to Hangman where the user guesses letters and the 
+//game display shows whether the user correctly guessed a letter in a randomly generated word.
+//The game ends when the user correctly guesses all letters in the word or the user runs out of guesses.
+
 import "graphix" as graphix
 import "math" as math
 
